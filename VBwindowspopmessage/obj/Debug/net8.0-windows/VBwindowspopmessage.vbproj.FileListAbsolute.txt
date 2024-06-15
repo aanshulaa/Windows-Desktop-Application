@@ -1,0 +1,16 @@
+C:\Users\kansh\source\repos\VBwindowspopmessage\bin\Debug\net8.0-windows\VBwindowspopmessage.exe
+C:\Users\kansh\source\repos\VBwindowspopmessage\bin\Debug\net8.0-windows\VBwindowspopmessage.deps.json
+C:\Users\kansh\source\repos\VBwindowspopmessage\bin\Debug\net8.0-windows\VBwindowspopmessage.runtimeconfig.json
+C:\Users\kansh\source\repos\VBwindowspopmessage\bin\Debug\net8.0-windows\VBwindowspopmessage.dll
+C:\Users\kansh\source\repos\VBwindowspopmessage\bin\Debug\net8.0-windows\VBwindowspopmessage.pdb
+C:\Users\kansh\source\repos\VBwindowspopmessage\obj\Debug\net8.0-windows\VBwindowspopmessage.Form1.resources
+C:\Users\kansh\source\repos\VBwindowspopmessage\obj\Debug\net8.0-windows\VBwindowspopmessage.vbproj.GenerateResource.cache
+C:\Users\kansh\source\repos\VBwindowspopmessage\obj\Debug\net8.0-windows\VBwindowspopmessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kansh\source\repos\VBwindowspopmessage\obj\Debug\net8.0-windows\VBwindowspopmessage.AssemblyInfoInputs.cache
+C:\Users\kansh\source\repos\VBwindowspopmessage\obj\Debug\net8.0-windows\VBwindowspopmessage.AssemblyInfo.vb
+C:\Users\kansh\source\repos\VBwindowspopmessage\obj\Debug\net8.0-windows\VBwindowspopmessage.vbproj.CoreCompileInputs.cache
+C:\Users\kansh\source\repos\VBwindowspopmessage\obj\Debug\net8.0-windows\VBwindowspopmessage.dll
+C:\Users\kansh\source\repos\VBwindowspopmessage\obj\Debug\net8.0-windows\refint\VBwindowspopmessage.dll
+C:\Users\kansh\source\repos\VBwindowspopmessage\obj\Debug\net8.0-windows\VBwindowspopmessage.pdb
+C:\Users\kansh\source\repos\VBwindowspopmessage\obj\Debug\net8.0-windows\VBwindowspopmessage.genruntimeconfig.cache
+C:\Users\kansh\source\repos\VBwindowspopmessage\obj\Debug\net8.0-windows\ref\VBwindowspopmessage.dll
